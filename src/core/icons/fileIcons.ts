@@ -2429,7 +2429,6 @@ export const fileIcons: FileIcons = {
     },
     {
       name: 'lintstaged',
-      light: true,
       fileNames: [
         '.lintstagedrc',
         '.lintstagedrc.json',
